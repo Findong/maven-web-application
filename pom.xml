@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.222.189.53:8081/repository/maven-releases/</url>
+	      <url>http://18.220.70.113:5000/repository/ebayreleases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.222.189.53:8081/repository/maven-snapshots/</url>
+	      <url>http://18.220.70.113:5000/repository/ebaysnapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
